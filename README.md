@@ -10,5 +10,4 @@
 
 Yesterdat you said tomorrow.
 
-我的跑步记录
 ![](https://raw.githubusercontent.com/yihong0618/blog/master/assets/github.svg)
