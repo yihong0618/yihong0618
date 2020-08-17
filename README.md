@@ -10,13 +10,5 @@
 
 Yesterdat you said tomorrow.
 
-
-<details>
-<summary>我的跑步记录</summary>
-![Eana Hufwe](https://raw.githubusercontent.com/yihong0618/blog/master/assets/github.svg)
-</details>
-
-<details>
-<summary>Picked Runs > 10km</summary>
-![Eana Hufwe](https://raw.githubusercontent.com/yihong0618/blog/master/assets/grid.svg)
-</details>
+我的跑步记录
+![](https://raw.githubusercontent.com/yihong0618/blog/master/assets/github.svg)
