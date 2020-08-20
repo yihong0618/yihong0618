@@ -8,6 +8,6 @@
 
 你可以到我的[网站](https://yihong.run/running/)来玩， 📫 如果你想聊聊，可以给我[发邮件](zouzou0208@gmail.com)，也可以直接 [Twitter DM](https://twitter.com/yihong06181)。
 
-Yesterdat you said tomorrow.
+Yesterday you said tomorrow.
 
 ![](https://raw.githubusercontent.com/yihong0618/blog/master/assets/github.svg)
