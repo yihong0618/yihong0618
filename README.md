@@ -1,7 +1,5 @@
 ### yihong0618
 
-<img align="right" src="https://github-readme-stats-1.yihong0618.vercel.app/api?username=yihong0618&show_icons=true&&theme=radical&hide_title=true" />
-
 😄 你好~ 我是 yihong0618，生活在大连，写代码两年有余。
 喜爱游戏，跑步，读书，编程。
 项目大多和这些相关。
