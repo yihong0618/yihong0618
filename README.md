@@ -9,7 +9,7 @@
 
 Yesterday you said tomorrow. 
 
-- [我的2021](https://github.com/yihong0618/2021)  <a href="https://github.com/yihong0618/iBeats"><img align="right" width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/issue.svg"/></a>
+- [我的2021](https://github.com/yihong0618/2021)
 - [我的2020](https://github.com/yihong0618/2020)
 - [我的心跳](https://github.com/yihong0618/iBeats)
 - [我的博客](https://github.com/yihong0618/gitblog)
