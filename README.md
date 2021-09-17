@@ -18,4 +18,4 @@ Yesterday you said tomorrow.
 
 记录下的跑步 10 年。
 
-<a href="https://github.com/yihong0618/iBeats"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/strava_circular.svg"/></a>
+<a href="https://github.com/yihong0618/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/strava_circular.svg"/></a>
