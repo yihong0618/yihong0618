@@ -6,7 +6,7 @@
 项目大多和这些相关。
 
 你可以到我的[网站](https://yihong.run/)来玩， 📫 如果你想聊聊，可以给我[发邮件](zouzou0208@gmail.com)，也可以直接 [Twitter DM](https://twitter.com/yihong0618)。
-有远程的工作机会也可以找我聊聊~
+有远程的工作机会也可以找我聊聊, tg 同名~ 
 
 Yesterday you said tomorrow. 
 
