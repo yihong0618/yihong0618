@@ -1,7 +1,7 @@
 
 ### yihong0618 <a href="https://github.com/yihong0618/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/yihong0618/iBeats/main/files/heart.svg"/></a>
 
-😄 你好~ 我是 yihong0618，生活工作在大连。
+😄 你好~ 我是 yihong0618，生活工作在[大连](https://github.com/yihong0618/dalian-IT)。
 喜爱游戏，跑步，读书，编程。
 项目大多和这些相关。
 
