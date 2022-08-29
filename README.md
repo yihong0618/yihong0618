@@ -21,7 +21,3 @@ Yesterday you said tomorrow.
 记录下的跑步 11 年。
 
 <a href="https://github.com/yihong0618/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/strava_circular.svg"/></a>
-
-2015 年注册了 GitHub, 2019 年写下了第一行开源代码
-
-<a href="https://github.com/yihong0618/GitHubPosters"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/github_circular.svg"/></a>
