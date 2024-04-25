@@ -7,7 +7,7 @@
 
 你可以到我的[网站](https://yihong.run/)来玩， 📫 如果你想聊聊，可以给我[发邮件](zouzou0208@gmail.com), 也可以来到我的 tg [频道](https://t.me/hyi0618)
 
-也欢迎赞助我杯可乐 Sponsor Me [![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/yihong0618)
+也欢迎赞助我杯可乐 [Sponsor Me](https://github.com/sponsors/yihong0618) [![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/yihong0618)
 
 Yesterday you said tomorrow. 
 
