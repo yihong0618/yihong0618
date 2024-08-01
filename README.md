@@ -9,8 +9,6 @@
 
 也欢迎赞助我杯可乐 [Sponsor Me](https://github.com/sponsors/yihong0618)
 
-爱发电：[![s](https://img.shields.io/badge/Buyme-food-DB94A2)](https://afdian.net/a/yihong0618)
-
 Yesterday you said tomorrow. 
 
 - [我的2024](https://github.com/yihong0618/2024) 
