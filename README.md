@@ -20,7 +20,7 @@ Yesterday you said tomorrow.
 - [我的博客](https://github.com/yihong0618/gitblog)
 - [我的跑步](https://github.com/yihong0618/running_page)
 - [我的项目](https://github.com/yihong0618/github-readme-stats)
-- [我的简历](https://yihong0618.github.io/resume/zh/)
+- [我的简历](https://resume.yihong0618.me)
 
 
 记录下的跑步 13 年。
