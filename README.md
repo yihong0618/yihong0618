@@ -18,7 +18,7 @@ Yesterday you said tomorrow.
 - [我的2021](https://github.com/yihong0618/2021) 
 - [我的2020](https://github.com/yihong0618/2020)
 - [我的心跳](https://github.com/yihong0618/iBeats)
-- [我的博客](https://github.com/yihong0618/gitblog)
+- [我的博客](https://blog.yihong0618.me)
 - [我的跑步](https://github.com/yihong0618/running_page)
 - [我的项目](https://github.com/yihong0618/github-readme-stats)
 
