@@ -1,7 +1,7 @@
 
 ### yihong0618 <a href="https://github.com/yihong0618/iBeats"><img align="right" width="150px" src="https://raw.githubusercontent.com/yihong0618/iBeats/main/files/heart.svg"/></a>
 
-😄 你好~ 我是 yihong0618，生活工作在[大连](https://github.com/yihong0618/dalian-IT)，工作机会 Open。
+😄 你好~ 我是 yihong0618，生活工作在[大连](https://github.com/yihong0618/dalian-IT)。
 喜爱[游戏](https://www.gcores.com/users/60793)，[跑步](https://www.yihong.run)，[读书](https://github.com/yihong0618/kindle_download_helper)，编程和[有趣的东西](https://github.com/yihong0618/blue)。
 项目大多和这些相关。
 
@@ -26,3 +26,5 @@ Yesterday you said tomorrow.
 记录下的跑步 13 年。
 
 <a href="https://github.com/yihong0618/GitHubPoster"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/strava_circular.svg"/></a>
+
+[工作机会Open](mailto:zouzou0208@gamil.com)
