@@ -21,10 +21,11 @@ Yesterday you said tomorrow.
 - [我的博客](https://blog.yihong0618.me)
 - [我的跑步](https://github.com/yihong0618/running_page)
 - [我的项目](https://github.com/yihong0618/2024)
+- [工作机会Open](mailto:zouzou0208@gamil.com)
 
 
 记录下的跑步 13 年。
 
 <a href="https://github.com/yihong0618/GitHubPoster"><img width="400px" src="https://raw.githubusercontent.com/yihong0618/GitHubPoster/main/examples/strava_circular.svg"/></a>
 
-[工作机会Open](mailto:zouzou0208@gamil.com)
+
