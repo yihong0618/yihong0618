@@ -11,7 +11,6 @@
 
 Yesterday you said tomorrow. 
 
-- [我的简历](https://resume.yihong0618.me)
 - [我的2024](https://github.com/yihong0618/2024) 
 - [我的2023](https://github.com/yihong0618/2023) 
 - [我的2022](https://github.com/yihong0618/2022) 
@@ -21,6 +20,7 @@ Yesterday you said tomorrow.
 - [我的博客](https://blog.yihong0618.me)
 - [我的跑步](https://github.com/yihong0618/running_page)
 - [我的项目](https://github.com/yihong0618/2024)
+- [我的简历](https://resume.yihong0618.me)
 - [工作机会Open](mailto:zouzou0208@gamil.com)
 
 
