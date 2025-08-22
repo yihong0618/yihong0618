@@ -22,7 +22,7 @@ Yesterday you said tomorrow.
 - [我的跑步](https://github.com/yihong0618/running_page)
 - [我的项目](https://github.com/yihong0618/2024)
 - [我的简历](https://resume.yihong0618.me)
-- [工作机会Open](mailto:zouzou0208@gamil.com)
+- [工作机会暂时不Open](mailto:zouzou0208@gamil.com)
 
 
 记录下的跑步 14 年。
